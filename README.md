@@ -1,7 +1,6 @@
 <h1 align="center">嗨 👋，我是马丁</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martin7f&label=Profile%20views&color=0e75b6&style=flat" alt="martin7f" /> </p>
 
-<p align="left"> <a href="https://twitter.com/martinw_007" target="blank"><img src="https://img.shields.io/twitter/follow/martinw_007?logo=twitter&style=for-the-badge" alt="martinw_007" /></a> </p>
 
 - 🔭 My project [007](https://github.com/Martin7F/007)
 
