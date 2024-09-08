@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martin7f&label=Profile%20views&color=0e75b6&style=flat" alt="martin7f" /> </p>
 
 
-- 🔭 My project [007](https://github.com/Martin7F/007)
-
 - 👉📩 Contact information **wfu670671@gmail.com**
 
 - ☕💸 Donate     0x2f016f69CacA4728d29fa08FDAf52fb23f877777
